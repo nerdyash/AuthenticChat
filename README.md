@@ -1,2 +1,2 @@
-# AuthenticChat
-Authentic Chat application using MEAN Stack
+# Authenticaion
+Authentication application using MEAN Stack
